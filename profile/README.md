@@ -18,7 +18,7 @@
 在博客的演示程序中，所引用的源代码均来源于此，您可以下载相关的程序代码，进而测试程序。
 
 - PHP：https://github.com/mailjobblog/dev_php
-- Golang：https://github.com/mailjobblog/dev_go
+- Go：https://github.com/mailjobblog/dev_go
 - Python：https://github.com/mailjobblog/dev_python
 - Linux：https://github.com/mailjobblog/dev_linux
 - Mysql：https://github.com/mailjobblog/dev_mysql
